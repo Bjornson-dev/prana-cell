@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/prana-cell/static/css/main.6f020c33.chunk.css",
-    "main.js": "/prana-cell/static/js/main.903fd42b.chunk.js",
-    "main.js.map": "/prana-cell/static/js/main.903fd42b.chunk.js.map",
+    "main.css": "/prana-cell/static/css/main.28c1acb2.chunk.css",
+    "main.js": "/prana-cell/static/js/main.8d1b9ae1.chunk.js",
+    "main.js.map": "/prana-cell/static/js/main.8d1b9ae1.chunk.js.map",
     "runtime-main.js": "/prana-cell/static/js/runtime-main.ac994fdb.js",
     "runtime-main.js.map": "/prana-cell/static/js/runtime-main.ac994fdb.js.map",
-    "static/js/2.16e774c7.chunk.js": "/prana-cell/static/js/2.16e774c7.chunk.js",
-    "static/js/2.16e774c7.chunk.js.map": "/prana-cell/static/js/2.16e774c7.chunk.js.map",
+    "static/js/2.e9c0bafc.chunk.js": "/prana-cell/static/js/2.e9c0bafc.chunk.js",
+    "static/js/2.e9c0bafc.chunk.js.map": "/prana-cell/static/js/2.e9c0bafc.chunk.js.map",
     "index.html": "/prana-cell/index.html",
-    "precache-manifest.7892ddc8b5c475e1f36724653f5003c9.js": "/prana-cell/precache-manifest.7892ddc8b5c475e1f36724653f5003c9.js",
+    "precache-manifest.d42c2f4f6b1bf21411688c695363a367.js": "/prana-cell/precache-manifest.d42c2f4f6b1bf21411688c695363a367.js",
     "service-worker.js": "/prana-cell/service-worker.js",
-    "static/css/main.6f020c33.chunk.css.map": "/prana-cell/static/css/main.6f020c33.chunk.css.map",
-    "static/js/2.16e774c7.chunk.js.LICENSE.txt": "/prana-cell/static/js/2.16e774c7.chunk.js.LICENSE.txt",
+    "static/css/main.28c1acb2.chunk.css.map": "/prana-cell/static/css/main.28c1acb2.chunk.css.map",
+    "static/js/2.e9c0bafc.chunk.js.LICENSE.txt": "/prana-cell/static/js/2.e9c0bafc.chunk.js.LICENSE.txt",
     "static/media/index.css": "/prana-cell/static/media/Montserrat-SemiBold.a0d37207.woff2",
-    "static/media/Global.module.sass": "/prana-cell/static/media/background.ef9b431e.jpg",
+    "static/media/Global.module.sass": "/prana-cell/static/media/background.e47e7424.webp",
+    "static/media/cell.jpg": "/prana-cell/static/media/cell.00a6908a.jpg",
     "static/media/LangSwitcher.module.sass": "/prana-cell/static/media/mail.e6956db2.svg",
     "static/media/gulmira.png": "/prana-cell/static/media/gulmira.0c2c8e68.png",
-    "static/media/home.webp": "/prana-cell/static/media/home.e47e7424.webp",
     "static/media/laboratory.jpg": "/prana-cell/static/media/laboratory.e0b467a1.jpg",
     "static/media/logo (2).jpg": "/prana-cell/static/media/logo (2).3c9c4af4.jpg",
     "static/media/schemeImmuno.jpg": "/prana-cell/static/media/schemeImmuno.e35dcc8c.jpg",
@@ -24,8 +24,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.ac994fdb.js",
-    "static/js/2.16e774c7.chunk.js",
-    "static/css/main.6f020c33.chunk.css",
-    "static/js/main.903fd42b.chunk.js"
+    "static/js/2.e9c0bafc.chunk.js",
+    "static/css/main.28c1acb2.chunk.css",
+    "static/js/main.8d1b9ae1.chunk.js"
   ]
 }
