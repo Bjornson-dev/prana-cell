@@ -1,0 +1,31 @@
+@font-face {
+	font-family: Montserrat; /* Имя шрифта */
+	src: url(fonts/Monserrat/Montserrat-Regular.woff2); /* Путь к файлу со шрифтом */
+	font-style: regular;
+	font-weight: 400;
+}
+@font-face {
+	font-family: Montserrat; /* Имя шрифта */
+	src: url(fonts/Monserrat/Montserrat-SemiBold.woff2); /* Путь к файлу со шрифтом */
+	font-style: SemiBold;
+	font-weight: 600;
+}
+@font-face {
+	font-family: Montserrat; /* Имя шрифта */
+	src: url(fonts/Monserrat/Montserrat-Bold.woff2); /* Путь к файлу со шрифтом */
+	font-style: Bold;
+	font-weight: 700;
+}
+
+body {
+	margin: 0;
+	font-family: "Montserrat", "Roboto", "Oxygen", "Ubuntu", "Cantarell",
+		"Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+code {
+	font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+		monospace;
+}
