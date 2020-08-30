@@ -15,7 +15,8 @@ function App(props) {
 		<div>
 			<Header text={props.text} />
 			<main className={g.main}>
-				<div className={g.container + " " + "container"}>
+				<div className={g.formWrapper}>
+					<div className={g.form}></div>
 					<Route path="/home" render={() => <HomePage text={props.text.home} />}></Route>
 					<Route path="/immunotherapy" render={() => <ImmunoPage text={props.text.immuno} />}></Route>
 					<Route path="/effects" render={() => <EffectsPage text={props.text.effects} />}></Route>

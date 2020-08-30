@@ -6,7 +6,7 @@ import gul from "../../images/gulmira.png";
 const RehabelitationPage = (props) => {
 	let text = props.text;
 	return (
-		<div>
+		<div className={g.container + " " + "container"}>
 			<h2 className={g.heading}>{text.title}</h2>
 			<p className={g.text} dangerouslySetInnerHTML={{ __html: text.text }}></p>
 			<img src={gul} alt="Лаборатория" className={s.gul} />
