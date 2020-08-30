@@ -9,7 +9,7 @@ import text from "./text";
 
 ReactDOM.render(
 	<React.StrictMode>
-		<BrowserRouter>
+		<BrowserRouter basename={process.env.PUBLIC_URL}>
 			<LangSwitcher />
 
 			<Redirect exact from="/" to="/ru/home" />
