@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "39875c5152db8f767fc37c2cd9260b12",
+    "revision": "facb72dbf90b4c3dc92559512749516a",
     "url": "/prana-cell/index.html"
   },
   {
-    "revision": "0772020d1c19578a725c",
+    "revision": "12a1f6f697eb23cdb09e",
     "url": "/prana-cell/static/css/main.6f020c33.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/prana-cell/static/js/2.16e774c7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0772020d1c19578a725c",
-    "url": "/prana-cell/static/js/main.d1b99526.chunk.js"
+    "revision": "12a1f6f697eb23cdb09e",
+    "url": "/prana-cell/static/js/main.903fd42b.chunk.js"
   },
   {
     "revision": "fdfffd50cf2c5e647e0f",
