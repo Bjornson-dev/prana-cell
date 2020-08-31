@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ff76142b288beb72635aba563618af33",
+    "revision": "b64e83998d9f9b51d88f3da03fe38e5e",
     "url": "/prana-cell/index.html"
   },
   {
-    "revision": "6faa44c95279d3dc4b0a",
-    "url": "/prana-cell/static/css/main.28c1acb2.chunk.css"
+    "revision": "05365536ac01d91b0709",
+    "url": "/prana-cell/static/css/main.c6d86f2d.chunk.css"
   },
   {
-    "revision": "e8868343c8791bc97b1e",
-    "url": "/prana-cell/static/js/2.e9c0bafc.chunk.js"
+    "revision": "9931829bad557e77eb76",
+    "url": "/prana-cell/static/js/2.16e774c7.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/prana-cell/static/js/2.e9c0bafc.chunk.js.LICENSE.txt"
+    "url": "/prana-cell/static/js/2.16e774c7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6faa44c95279d3dc4b0a",
-    "url": "/prana-cell/static/js/main.8d1b9ae1.chunk.js"
+    "revision": "05365536ac01d91b0709",
+    "url": "/prana-cell/static/js/main.fe3a065b.chunk.js"
   },
   {
     "revision": "fdfffd50cf2c5e647e0f",
@@ -50,6 +50,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0c2c8e68fc40be403a13dc8a914d1f6d",
     "url": "/prana-cell/static/media/gulmira.0c2c8e68.png"
+  },
+  {
+    "revision": "c9e511b5dc44d8ac1b8aced04bdee28d",
+    "url": "/prana-cell/static/media/homeImg.c9e511b5.jpg"
   },
   {
     "revision": "e0b467a19920b542ce9c21223abe5f3a",
