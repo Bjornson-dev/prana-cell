@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b64e83998d9f9b51d88f3da03fe38e5e",
+    "revision": "100f73bdd7ad33947604ba41f586ab44",
     "url": "/prana-cell/index.html"
   },
   {
-    "revision": "05365536ac01d91b0709",
-    "url": "/prana-cell/static/css/main.c6d86f2d.chunk.css"
+    "revision": "520727bf9227b6f32481",
+    "url": "/prana-cell/static/css/main.91c48869.chunk.css"
   },
   {
-    "revision": "9931829bad557e77eb76",
-    "url": "/prana-cell/static/js/2.16e774c7.chunk.js"
+    "revision": "e0c2e0b272eaa3129453",
+    "url": "/prana-cell/static/js/2.a918c9c8.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/prana-cell/static/js/2.16e774c7.chunk.js.LICENSE.txt"
+    "url": "/prana-cell/static/js/2.a918c9c8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "05365536ac01d91b0709",
-    "url": "/prana-cell/static/js/main.fe3a065b.chunk.js"
+    "revision": "520727bf9227b6f32481",
+    "url": "/prana-cell/static/js/main.d5f2a3d7.chunk.js"
   },
   {
     "revision": "fdfffd50cf2c5e647e0f",

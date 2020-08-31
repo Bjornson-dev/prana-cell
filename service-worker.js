@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/prana-cell/precache-manifest.94ea12ebe3615c617a41b7f3a3889b09.js"
+  "/prana-cell/precache-manifest.89268d36f5ec25e15229ed70dc2fe0b7.js"
 );
 
 self.addEventListener('message', (event) => {
