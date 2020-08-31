@@ -1,7 +1,7 @@
 import React from "react";
 import s from "./HomePage.module.sass";
 import g from "./../Global.module.sass";
-import homeImg from "../../images/cell.jpg";
+import homeImg from "../../images/homeImg.jpg";
 
 const HomePage = (props) => {
 	let text = props.text;
@@ -12,6 +12,7 @@ const HomePage = (props) => {
 			<p className={g.textContainer + " " + g.text} dangerouslySetInnerHTML={{ __html: text.text1 }}></p>
 			<p className={g.textContainer + " " + g.text} dangerouslySetInnerHTML={{ __html: text.text2 }}></p>
 			<p className={g.textContainer + " " + g.text} dangerouslySetInnerHTML={{ __html: text.mainText2 }}></p>
+			<img src={homeImg} alt="Лаборатория" className={s.homeImg + " " + g.images} />
 		</div>
 	);
 };

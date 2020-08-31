@@ -9,14 +9,18 @@ import EffectsPage from "./components/EffectsPage/EffectsPage";
 import TreatmentPage from "./components/TreatmentPage/TreatmentPage";
 import FaqPage from "./components/FaqPage/FaqPage";
 import RehabelitationPage from "./components/RehabelitationPage/RehabelitationPage";
+import Form from "./Form";
 
 function App(props) {
+	let text = props.text;
 	return (
 		<div>
 			<Header text={props.text} />
 			<main className={g.main}>
-				<div className={g.formWrapper}>
-					<div className={g.form}></div>
+				<div className={g.contentWrapper}>
+					<div className={g.form}>
+						<Form text={text} />
+					</div>
 					<Route path="/home" render={() => <HomePage text={props.text.home} />}></Route>
 					<Route path="/immunotherapy" render={() => <ImmunoPage text={props.text.immuno} />}></Route>
 					<Route path="/effects" render={() => <EffectsPage text={props.text.effects} />}></Route>

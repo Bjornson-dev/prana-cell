@@ -8,9 +8,9 @@ const Immuno = (props) => {
 	let text = props.text;
 	return (
 		<div className={g.container + " " + "container"}>
-			<img src={lab} alt="Лаборатория" className={s.lab + " " + g.images} />
 			<h2 className={g.textContainer + " " + g.heading}>{text.title}</h2>
 			<p className={g.textContainer + " " + g.text} dangerouslySetInnerHTML={{ __html: text.text1 }}></p>
+			<img src={lab} alt="Лаборатория" className={s.lab + " " + g.images} />
 			<p className={g.textContainer + " " + g.text} dangerouslySetInnerHTML={{ __html: text.text2 }}></p>
 			<p className={g.textContainer + " " + g.text} dangerouslySetInnerHTML={{ __html: text.text3 }}></p>
 			<img src={scheme} alt="Лаборатория" className={s.scheme} />

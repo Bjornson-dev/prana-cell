@@ -7,10 +7,9 @@ const TreatmentPage = (props) => {
 	let text = props.text;
 	return (
 		<div className={g.container + " " + "container"}>
-			<h2 className={g.heading}>{text.title}</h2>
+			<h2 className={g.textContainer + " " + g.heading}>{text.title}</h2>
+			<p className={g.textContainer + " " + g.text} dangerouslySetInnerHTML={{ __html: text.text }}></p>
 			<img src={treat} alt="Лаборатория" className={s.treat} />
-			<p className={g.text} dangerouslySetInnerHTML={{ __html: text.text }}></p>
-			<div className={g.clearfix}></div>
 		</div>
 	);
 };

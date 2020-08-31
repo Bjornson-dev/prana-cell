@@ -7,11 +7,8 @@ const RehabelitationPage = (props) => {
 	let text = props.text;
 	return (
 		<div className={g.container + " " + "container"}>
-			<h2 className={g.heading}>{text.title}</h2>
-			<p className={g.text} dangerouslySetInnerHTML={{ __html: text.text }}></p>
-			<img src={gul} alt="Лаборатория" className={s.gul} />
-			<p className={g.text} dangerouslySetInnerHTML={{ __html: text.endText }}></p>
-			<div className={g.clearfix}></div>
+			<h2 className={g.textContainer + " " + g.heading}>{text.title}</h2>
+			<p className={g.textContainer + " " + g.text} dangerouslySetInnerHTML={{ __html: text.text }}></p>
 		</div>
 	);
 };
