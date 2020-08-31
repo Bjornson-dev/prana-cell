@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "100f73bdd7ad33947604ba41f586ab44",
+    "revision": "a0e68a9a70814856ecc22d83ca7183ff",
     "url": "/prana-cell/index.html"
   },
   {
-    "revision": "520727bf9227b6f32481",
-    "url": "/prana-cell/static/css/main.91c48869.chunk.css"
+    "revision": "740ed2954d3b586eed01",
+    "url": "/prana-cell/static/css/main.560b7775.chunk.css"
   },
   {
-    "revision": "e0c2e0b272eaa3129453",
-    "url": "/prana-cell/static/js/2.a918c9c8.chunk.js"
+    "revision": "0626f6721dc72266cd41",
+    "url": "/prana-cell/static/js/2.c5cadcf6.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/prana-cell/static/js/2.a918c9c8.chunk.js.LICENSE.txt"
+    "url": "/prana-cell/static/js/2.c5cadcf6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "520727bf9227b6f32481",
-    "url": "/prana-cell/static/js/main.d5f2a3d7.chunk.js"
+    "revision": "740ed2954d3b586eed01",
+    "url": "/prana-cell/static/js/main.ab437998.chunk.js"
   },
   {
     "revision": "fdfffd50cf2c5e647e0f",
@@ -34,6 +34,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a0d372074a83c2090d898c344ca2483d",
     "url": "/prana-cell/static/media/Montserrat-SemiBold.a0d37207.woff2"
+  },
+  {
+    "revision": "9afb014ae615495bc930ed050a6a7dbe",
+    "url": "/prana-cell/static/media/about-4.9afb014a.jpg"
   },
   {
     "revision": "e47e742429b8dd2cafcd71027a1f4478",
